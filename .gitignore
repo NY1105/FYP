@@ -1,0 +1,6 @@
+venv/
+content/**/*
+!content/data/
+!content/data/class/
+!content/data/class/example/
+!content/data/class/example/*
